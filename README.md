@@ -6,6 +6,10 @@ The repository was used to demonstrate basic git and github concepts to students
 
 The exact details of the assignment can be found here - [https://github.com/mlip-cmu/f2024/blob/main/labs/lab03.md](https://github.com/mlip-cmu/f2024/blob/main/labs/lab03.md)
 
-✅ and fix a merge conflict locally. Then, amend the merge commit to state that a merge conflict was resolved.
+**Deliverables:**
+
+✅ Create and fix a merge conflict locally. Then, amend the merge commit to state that a merge conflict was resolved.
+
 ✅ Raise a pull request with your new changes. Show the the url of the pull request to a TA.
-Explain to a TA the difference between a cloned and forked repository, when you would use each, and why we use pull requests.
+
+✅ Explain to a TA the difference between a cloned and forked repository, when you would use each, and why we use pull requests.
