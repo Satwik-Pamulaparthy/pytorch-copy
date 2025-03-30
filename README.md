@@ -10,6 +10,6 @@ The exact details of the assignment can be found here - [https://github.com/mlip
 
  ✅ Create and fix a merge conflict locally. Then, amend the merge commit to state that a merge conflict was resolved.
  
- ✅ Raise a pull request with your new changes. Show the the url of the pull request to a TA.
+ ✅ Raise a pull request with your new changes. Verify the url of the pull request.
  
- ✅ Explain to a TA the difference between a cloned and forked repository, when you would use each, and why we use pull requests.
+ 
